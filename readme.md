@@ -63,7 +63,7 @@ project/
 
 🚀 How to Run Locally
 Clone the repository
-git clone https://github.com/your-username/ephemeral-equilibrium.git
+git clone https://github.com/tagda-coder/ephemeral-equilibrium.git
 Open index.html in your browser
 (Use Live Server for best results)
 
